@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 # used to create the Web UI
 import streamlit as st
 
@@ -6,7 +6,7 @@ import streamlit as st
 from langchain_groq import ChatGroq
 
 # Load the environment variable
-load_dotenv()
+#load_dotenv()
 
 # Streamlit page setup
 
